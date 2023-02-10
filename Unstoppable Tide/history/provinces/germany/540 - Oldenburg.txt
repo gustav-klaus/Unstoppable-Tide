@@ -1,6 +1,6 @@
-owner = OLD
-controller = OLD
-add_core = OLD
+owner = SAX
+controller = SAX
+add_core = SAX
 add_core = GER
 trade_goods = fish
 life_rating = 40
