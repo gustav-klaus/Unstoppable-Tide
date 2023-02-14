@@ -1,6 +1,6 @@
-owner = BEL
-controller = BEL
-add_core = BEL
+owner = SAX
+controller = SAX
+add_core = SAX
 add_core = NET
 add_core = FLA
 trade_goods = coal

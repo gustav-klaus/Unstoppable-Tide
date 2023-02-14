@@ -1,6 +1,5 @@
-owner = BEL
-controller = BEL
-add_core = LUX
+owner = SAX
+controller = SAX
 add_core = NET
 trade_goods = iron
 fort = 2

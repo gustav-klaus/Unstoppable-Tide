@@ -1,6 +1,6 @@
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = BEL
+controller = BEL
+add_core = BEL
 trade_goods = sugar
 life_rating = 30
 naval_base = 1

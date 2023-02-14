@@ -1,7 +1,6 @@
-owner = BEL
-controller = BEL
-add_core = BEL
-add_core = NET
+owner = SAX
+controller = SAX
+add_core = SAX
 add_core = FLA
 trade_goods = grain
 terrain = ghent

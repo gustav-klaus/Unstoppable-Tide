@@ -1,7 +1,6 @@
-owner = BEL
-controller = BEL
-add_core = BEL
-add_core = NET
+owner = SAX
+controller = SAX
+add_core = SAX
 add_core = WLL
 trade_goods = iron
 life_rating = 35

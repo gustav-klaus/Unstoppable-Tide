@@ -1,6 +1,6 @@
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = SAX
+controller = SAX
+add_core = SAX
 trade_goods = iron
 life_rating = 30
 terrain = charleville
